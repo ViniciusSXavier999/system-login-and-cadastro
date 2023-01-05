@@ -4,7 +4,7 @@
 
 ## DESCRIÇÃO DO PROJETO 📝
 
-O projeto ainda está em desenvolvimento, até o momento é um sistema de login e cadastro, onde é possível logar caso já tenha um cadastro valido e caso não tenha é possível realizar o cadastro de um novo usuário, em breve será criada uma tela de inicio onde será possível acessa - la após realizar o login.
+O projeto ainda está em desenvolvimento, é um sistema de login e cadastro, onde até o momento é possível somente se cadastrar, em breve será possível logar caso já tenha um cadastro e será apresentada uma tela inicial. 
 
 ## OBJETIVOS PRINCIPAIS DO PROJETO 💡
 
@@ -24,10 +24,18 @@ O projeto ainda está em desenvolvimento, até o momento é um sistema de login 
 <img align="center" alt="js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" alt="js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="center" alt="js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-
 </div>
 
+## DEMONSTRAÇÃO DA APLICAÇÃO 🔍
 
+![Projeto em pratica](https://github.com/ViniciusSXavier999/Assets/blob/main/LoginRegistration/loginRegistration.gif)
 
+### DADOS SALVOS NO BANCO DE DADOS 
+- Detalhe importante é que a senha vai para o banco de dados criptografada 🔐
 
+![Imagem banco de dados](https://github.com/ViniciusSXavier999/Assets/blob/main/LoginRegistration/bancodedadosLogin.png)
 
+## AUTORES 
+
+| [<img src="https://github.com/ViniciusSXavier999/Assets/blob/main/EuVini/euocto.png" width=115><br><sub>Vinicius Xavier</sub>](https://github.com/ViniciusSXavier999)
+| :---: |
